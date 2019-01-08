@@ -15,6 +15,7 @@ namespace Lab01_AboutMeQuiz
             Car();
             BirthPlace();
             Country();
+            NorthKorea();
 
         }
 
@@ -90,7 +91,23 @@ namespace Lab01_AboutMeQuiz
             }
         }
 
-        
+        static string NorthKorea() //function for the fifth question
+        {
+            Console.WriteLine("Have I ever been to North Korea? Yes or No");
+            string questFive = Console.ReadLine();
+            string visited = questFive.ToUpper();
+
+            if (visited == "Y" || visited == "Yes")
+            {
+                Console.WriteLine("Yes, while visiting the DMZ, I walked accross a room that half of it was on the South Korean side of the border and the other half was on the North Korean side of the border."); //displays this if the user answers correctly
+                return visited;
+
+            } else
+            {
+                Console.WriteLine("No, I actually have, while visiting the DMZ, I walked accross a room that half of it was on the South Korean side of the border and the other half was on the North Korean side of the border."); //displays this if the user answers correctly
+                return visited;
+            }
+        }
 
     }
 }
