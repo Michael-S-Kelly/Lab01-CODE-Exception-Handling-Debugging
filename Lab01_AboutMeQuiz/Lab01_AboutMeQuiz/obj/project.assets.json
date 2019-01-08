@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\Mac\\Home\\codefellows\\401\\week1\\01lab\\Lab01-CODE-Exception-Handling-Debugging\\Lab01_AboutMeQuiz\\Lab01_AboutMeQuiz\\Lab01_AboutMeQuiz.csproj",
+      "projectUniqueName": "Z:\\codefellows\\401\\week1\\01lab\\Lab01-CODE-Exception-Handling-Debugging\\Lab01_AboutMeQuiz\\Lab01_AboutMeQuiz\\Lab01_AboutMeQuiz.csproj",
       "projectName": "Lab01_AboutMeQuiz",
-      "projectPath": "\\\\Mac\\Home\\codefellows\\401\\week1\\01lab\\Lab01-CODE-Exception-Handling-Debugging\\Lab01_AboutMeQuiz\\Lab01_AboutMeQuiz\\Lab01_AboutMeQuiz.csproj",
+      "projectPath": "Z:\\codefellows\\401\\week1\\01lab\\Lab01-CODE-Exception-Handling-Debugging\\Lab01_AboutMeQuiz\\Lab01_AboutMeQuiz\\Lab01_AboutMeQuiz.csproj",
       "packagesPath": "C:\\Users\\michaelkelly\\.nuget\\packages\\",
-      "outputPath": "\\\\Mac\\Home\\codefellows\\401\\week1\\01lab\\Lab01-CODE-Exception-Handling-Debugging\\Lab01_AboutMeQuiz\\Lab01_AboutMeQuiz\\obj\\",
+      "outputPath": "Z:\\codefellows\\401\\week1\\01lab\\Lab01-CODE-Exception-Handling-Debugging\\Lab01_AboutMeQuiz\\Lab01_AboutMeQuiz\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

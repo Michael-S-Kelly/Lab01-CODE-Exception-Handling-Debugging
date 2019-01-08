@@ -136,7 +136,7 @@ Default: 'default value'
 
 Argument 5
 
-Type string
+Type bool
 
 Default: 'default value'
 
@@ -145,13 +145,13 @@ Default: 'default value'
   if (visited == "Y" || visited == "YES")
   {
       Console.WriteLine("Yes, while visiting the DMZ, I walked accross a room that half of it was on the South Korean side of the border and the other half was on the North Korean side of the border."); //displays this if the user answers correctly
-      return visited;
+      return true;
 
   }
   else
   {
       Console.WriteLine("No, I actually have, while visiting the DMZ, I walked accross a room that half of it was on the South Korean side of the border and the other half was on the North Korean side of the border."); //displays this if the user answers correctly
-      return visited;
+      return false;
   }
 
 Exception Handler

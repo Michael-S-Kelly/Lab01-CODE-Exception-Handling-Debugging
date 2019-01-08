@@ -127,30 +127,30 @@ namespace Lab01_AboutMeQuiz
 
         }
 
-        static string NorthKorea() //function for the fifth question
+        static bool NorthKorea() //function for the fifth question
         {
             try
             {
-                Console.WriteLine("Have I ever been to North Korea? Yes or No");
+                Console.WriteLine("Have I ever been to North Korea? true or false");
                 string questFive = Console.ReadLine();
                 string visited = questFive.ToUpper();
-
+                
                 if (visited == "Y" || visited == "YES")
                 {
                     Console.WriteLine("Yes, while visiting the DMZ, I walked accross a room that half of it was on the South Korean side of the border and the other half was on the North Korean side of the border."); //displays this if the user answers correctly
-                    return visited;
+                    return true;
 
                 }
                 else
                 {
                     Console.WriteLine("No, I actually have, while visiting the DMZ, I walked accross a room that half of it was on the South Korean side of the border and the other half was on the North Korean side of the border."); //displays this if the user answers correctly
-                    return visited;
+                    return false;
                 }
             }
             catch (Exception result)
             {
                 Console.WriteLine(result.Message); //if there is an error, this will give a message to say what went wrong
-                return "";
+                return false;
             }
 
         }
