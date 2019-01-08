@@ -16,6 +16,7 @@ namespace Lab01_AboutMeQuiz
             BirthPlace();
             Country();
             NorthKorea();
+            Console.ReadLine();
 
         }
 
@@ -97,7 +98,7 @@ namespace Lab01_AboutMeQuiz
             string questFive = Console.ReadLine();
             string visited = questFive.ToUpper();
 
-            if (visited == "Y" || visited == "Yes")
+            if (visited == "Y" || visited == "YES")
             {
                 Console.WriteLine("Yes, while visiting the DMZ, I walked accross a room that half of it was on the South Korean side of the border and the other half was on the North Korean side of the border."); //displays this if the user answers correctly
                 return visited;

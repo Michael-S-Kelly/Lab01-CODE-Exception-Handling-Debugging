@@ -2,3 +2,10 @@
 \\Mac\Home\codefellows\401\week1\01lab\Lab01-CODE-Exception-Handling-Debugging\Lab01_AboutMeQuiz\Lab01_AboutMeQuiz\obj\Debug\netcoreapp2.2\Lab01_AboutMeQuiz.csproj.CoreCompileInputs.cache
 \\Mac\Home\codefellows\401\week1\01lab\Lab01-CODE-Exception-Handling-Debugging\Lab01_AboutMeQuiz\Lab01_AboutMeQuiz\obj\Debug\netcoreapp2.2\Lab01_AboutMeQuiz.AssemblyInfoInputs.cache
 \\Mac\Home\codefellows\401\week1\01lab\Lab01-CODE-Exception-Handling-Debugging\Lab01_AboutMeQuiz\Lab01_AboutMeQuiz\obj\Debug\netcoreapp2.2\Lab01_AboutMeQuiz.AssemblyInfo.cs
+\\Mac\Home\codefellows\401\week1\01lab\Lab01-CODE-Exception-Handling-Debugging\Lab01_AboutMeQuiz\Lab01_AboutMeQuiz\bin\Debug\netcoreapp2.2\Lab01_AboutMeQuiz.deps.json
+\\Mac\Home\codefellows\401\week1\01lab\Lab01-CODE-Exception-Handling-Debugging\Lab01_AboutMeQuiz\Lab01_AboutMeQuiz\bin\Debug\netcoreapp2.2\Lab01_AboutMeQuiz.runtimeconfig.json
+\\Mac\Home\codefellows\401\week1\01lab\Lab01-CODE-Exception-Handling-Debugging\Lab01_AboutMeQuiz\Lab01_AboutMeQuiz\bin\Debug\netcoreapp2.2\Lab01_AboutMeQuiz.runtimeconfig.dev.json
+\\Mac\Home\codefellows\401\week1\01lab\Lab01-CODE-Exception-Handling-Debugging\Lab01_AboutMeQuiz\Lab01_AboutMeQuiz\bin\Debug\netcoreapp2.2\Lab01_AboutMeQuiz.dll
+\\Mac\Home\codefellows\401\week1\01lab\Lab01-CODE-Exception-Handling-Debugging\Lab01_AboutMeQuiz\Lab01_AboutMeQuiz\bin\Debug\netcoreapp2.2\Lab01_AboutMeQuiz.pdb
+\\Mac\Home\codefellows\401\week1\01lab\Lab01-CODE-Exception-Handling-Debugging\Lab01_AboutMeQuiz\Lab01_AboutMeQuiz\obj\Debug\netcoreapp2.2\Lab01_AboutMeQuiz.dll
+\\Mac\Home\codefellows\401\week1\01lab\Lab01-CODE-Exception-Handling-Debugging\Lab01_AboutMeQuiz\Lab01_AboutMeQuiz\obj\Debug\netcoreapp2.2\Lab01_AboutMeQuiz.pdb
