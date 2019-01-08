@@ -14,6 +14,7 @@ namespace Lab01_AboutMeQuiz
             Military();
             Car();
             BirthPlace();
+            Country();
 
         }
 
@@ -70,6 +71,26 @@ namespace Lab01_AboutMeQuiz
                 return questThree;
             }
         }
+
+        static string Country() //function for the fourth question
+        {
+            Console.WriteLine("Besides the United States, name one of the two other countries I've lived at.");
+            string questFour = Console.ReadLine();
+            string livedIn = questFour.ToUpper();
+
+            if (livedIn == "QATAR" || livedIn == "KOREA" || livedIn == "SOUTH KOREA" || livedIn == "REPUBLIC OF KOREA")
+            {
+                Console.WriteLine("Yes, I've lived in the Republic of Korea and Qatar."); //displays this if the user answers correctly
+                return questFour;
+            }
+            else
+            {
+                Console.WriteLine("Sorry, no, I've lived in the Republic of Korea and Qatar."); //displays this if the user answers incorrectly
+                return questFour;
+            }
+        }
+
+        
 
     }
 }
